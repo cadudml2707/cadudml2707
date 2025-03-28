@@ -16,13 +16,6 @@ Atualmente trabalho como Assistente de TI no Grupo Bringel no time de desenvolvi
     <img
         align="center"
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrediasss&theme=cobalt&custom_title=Tecnologias&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadudml2707&theme=cobalt&custom_title=Tecnologias&include_all_commits=true&locale=pt-br"
     />
 </p>
-
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cadudml2707/cadudml2707/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cadudml2707/cadudml2707/output/github-contribution-grid-snake-dark.svg">
-</picture>
