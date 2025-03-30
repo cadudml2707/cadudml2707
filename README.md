@@ -3,7 +3,7 @@
 **`Software Devloper`**
 
 Me chamo Carlos Eduardo Dias, tenho 19 anos e moro na cidade de Manaus. 
-Sou acadêmico em Bacharelado em Sistemas de Informação no Centro Universitário Fametro e possuo Ensino Médio Técnico pela Fundação Matias Machilne. 
+Sou acadêmico em Bacharelado em Sistemas de Informação no Centro Universitário Fametro e possuo Ensino Médio Técnico pela Fundação Matias Machline. 
 Atualmente trabalho como Assistente de TI no Grupo Bringel no time de desenvolvimento. Trabalho com UX/UI design e desenvolvimento Frontend com ReactJS e Typescript. Também possuo afinidade com Java no Backend.
 
 ## :robot: Tecnologias
