@@ -1,10 +1,7 @@
 # :computer: Carlos Eduardo Dias
 
 **`Software Devloper`**
-
-Me chamo Carlos Eduardo Dias, tenho 19 anos e moro na cidade de Manaus. 
-Sou acadêmico em Bacharelado em Sistemas de Informação no Centro Universitário Fametro e possuo Ensino Médio Técnico pela Fundação Matias Machline. 
-Atualmente trabalho como Assistente de TI no Grupo Bringel no time de desenvolvimento. Trabalho com UX/UI design e desenvolvimento Frontend com ReactJS e Typescript. Também possuo afinidade com Java no Backend.
+Sou Carlos Eduardo, assistente de TI no Grupo Bringel e acadêmico de Sistemas de Informação na Fametro, com formação técnica em Informática pela Fundação Matias Machline. Tenho experiência em desenvolvimento Front-End, com foco em React e TypeScript, além de conhecimentos em experiência de usuário. Participei do desenvolvimento do app HealthMap, que auxilia no acesso a informações de unidades de saúde em Manaus. Atualmente, atuo no desenvolvimento de sistemas web, aplicando minhas habilidades em React, TypeScript, tailwind, shadcn.iu, chakra ui e práticas ágeis com SCRUM, além de explorar o desenvolvimento de APIs REST com Java e Spring Boot em projetos pessoais.
 
 ## :robot: Tecnologias
 
