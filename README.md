@@ -1,6 +1,7 @@
 # :computer: Carlos Eduardo Dias
 
 **`Software Devloper`**
+
 Sou Carlos Eduardo, assistente de TI no Grupo Bringel e acadêmico de Sistemas de Informação na Fametro, com formação técnica em Informática pela Fundação Matias Machline. Tenho experiência em desenvolvimento Front-End, com foco em React e TypeScript, além de conhecimentos em experiência de usuário. Participei do desenvolvimento do app HealthMap, que auxilia no acesso a informações de unidades de saúde em Manaus. Atualmente, atuo no desenvolvimento de sistemas web, aplicando minhas habilidades em React, TypeScript, tailwind, shadcn.iu, chakra ui e práticas ágeis com SCRUM, além de explorar o desenvolvimento de APIs REST com Java e Spring Boot em projetos pessoais.
 
 ## :robot: Tecnologias
